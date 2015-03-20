@@ -1,3 +1,6 @@
+This is a set of python scripts that can be used to analyze the sqlite database also included in this repository.
+The goal of the analysis was to study performance metrics for the product over time (see more info in the pdf report).
+
 ==========
 Some general notes: This code is not optimal:
     1) Lack of error handling
